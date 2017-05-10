@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <sl_no>123</sl_no>
+    <name>sony</name>
+    <quantity>25</quantity>
+    <price>1399</price>
+  </Product>
+  <Product>
+    <sl_no>234</sl_no>
+    <name>hp</name>
+    <quantity>30</quantity>
+    <price>1299</price>
+  </Product>
+  <Product>
+    <sl_no>345</sl_no>
+    <name>bose</name>
+    <quantity>17</quantity>
+    <price>14599</price>
+  </Product>
+</ArrayOfProduct>

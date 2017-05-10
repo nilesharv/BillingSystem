@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomerBill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <ArrayOfAnyType>
+      <anyType xsi:type="xsd:int">345</anyType>
+      <anyType xsi:type="xsd:string">bose</anyType>
+      <anyType xsi:type="xsd:float">14599</anyType>
+      <anyType xsi:type="xsd:int">18</anyType>
+      <anyType xsi:type="xsd:int">262782</anyType>
+    </ArrayOfAnyType>
+  </list>
+  <name>shubahm</name>
+  <phone>90157001717</phone>
+  <total>262782</total>
+</CustomerBill>
